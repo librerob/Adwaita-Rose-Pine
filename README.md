@@ -1,9 +1,9 @@
 <p align="center">
   <img src="./logo.png" alt="Adwaita Rose Pine Logo" width="320">
 </p>
-<h1 align="center">Adwaita Rose Pine</h1>
+<h1 align="center">Adwaita Rosé Pine</h1>
 <p align="center">
-A complete Rose Pine recolor of the classic Adwaita Dark GTK theme.
+A complete Rosé Pine recolor of the classic Adwaita Dark GTK theme.
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/GTK-3%2F4-blue">
@@ -155,7 +155,7 @@ sudo ln -s ~/.themes/Adwaita-Rose-Pine /usr/share/themes/
 **Adwaita**  
 Original theme by the GNOME project.
 
-**Rose Pine**  
+**Rosé Pine**  
 Color scheme by https://rosepinetheme.com
 
 ---
