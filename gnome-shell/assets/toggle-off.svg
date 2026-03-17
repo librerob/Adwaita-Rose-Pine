@@ -14,13 +14,13 @@
      id="defs3303" />
   <sodipodi:namedview
      id="namedview3301"
-     pagecolor="#3a3a3a"
+     pagecolor="#403d52"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#b2b8c4"
+     inkscape:deskcolor="#908caa"
      showgrid="true"
      inkscape:zoom="5.9"
      inkscape:cx="5.4237288"
@@ -43,7 +43,7 @@
      height="24"
      rx="12"
      ry="12"
-     fill="#ffffff"
+     fill="#e0def4"
      opacity="0.45"
      stroke-width="0"
      style="paint-order:stroke fill markers"
@@ -52,8 +52,8 @@
      cx="12"
      cy="12"
      r="9"
-     fill="#ffffff"
+     fill="#e0def4"
      stroke-width="0"
-     style="paint-order:stroke fill markers;fill:#242424;fill-opacity:1"
+     style="paint-order:stroke fill markers;fill:#191724;fill-opacity:1"
      id="circle3297" />
 </svg>

@@ -1,9 +1,9 @@
 [X-GNOME-Metatheme]
-Name=Brogrammer-GTK
+Name=Adwaita-RosePine
 Type=X-GNOME-Metatheme
-Comment=Adwaita Dark recolored with the Brogrammer terminal color palette
+Comment=Adwaita Dark recolored with the Rosé Pine color palette
 Encoding=UTF-8
-GtkTheme=Brogrammer-GTK
+GtkTheme=Adwaita-RosePine
 IconTheme=Adwaita
 CursorTheme=Adwaita
 CursorSize=24

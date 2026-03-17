@@ -28,13 +28,13 @@
   </defs>
   <sodipodi:namedview
      id="namedview8"
-     pagecolor="#ffffff"
+     pagecolor="#e0def4"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#b2b8c4"
+     inkscape:deskcolor="#908caa"
      showgrid="true"
      inkscape:zoom="11.8"
      inkscape:cx="22.754237"
@@ -63,15 +63,15 @@
      height="24"
      rx="12"
      ry="12"
-     fill="#009688"
+     fill="#31748f"
      stroke-width="0"
-     style="paint-order:stroke fill markers;fill:#45707a;fill-opacity:1"
+     style="paint-order:stroke fill markers;fill:#31748f;fill-opacity:1"
      id="rect2" />
   <circle
      cx="36"
      cy="13"
      r="9"
-     fill="#ffffff"
+     fill="#e0def4"
      stroke-width="0"
      style="paint-order:stroke fill markers;fill:#000000;filter:url(#filter863);opacity:0.35"
      id="circle307" />
@@ -79,13 +79,13 @@
      cx="36"
      cy="12"
      r="9"
-     fill="#ffffff"
+     fill="#e0def4"
      stroke-width="0"
-     style="paint-order:stroke fill markers;fill:#ffffff;fill-opacity:1"
+     style="paint-order:stroke fill markers;fill:#e0def4;fill-opacity:1"
      id="circle4" />
   <path
      id="rect876"
-     style="paint-order:stroke fill markers;fill:#ffffff;opacity:0.1"
+     style="paint-order:stroke fill markers;fill:#e0def4;opacity:0.1"
      d="M -12 -0.01953125 C -5.3520066 -0.01953125 0 5.3324754 0 11.980469 C 0 12.151525 -0.0066542885 12.320963 -0.013671875 12.490234 C -0.27938822 6.080891 -5.523063 1 -12 1 L -36 1 C -42.476937 1 -47.720612 6.080891 -47.986328 12.490234 C -47.993346 12.320963 -48 12.151525 -48 11.980469 C -48 5.3324754 -42.647993 -0.01953125 -36 -0.01953125 L -12 -0.01953125 z "
      transform="scale(-1,1)" />
 </svg>

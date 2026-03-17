@@ -21,11 +21,11 @@
    version="1.0"
    style="display:inline;enable-background:new">
   <sodipodi:namedview
-     stroke="#de352e"
-     fill="#de352e"
+     stroke="#eb6f92"
+     fill="#eb6f92"
      id="base"
-     pagecolor="#d6dbe5"
-     bordercolor="#808080"
+     pagecolor="#e0def4"
+     bordercolor="#6e6a86"
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
@@ -59,9 +59,9 @@
      guidetolerance="10000"
      borderlayer="true"
      showborder="true"
-     guidecolor="#de352e"
+     guidecolor="#eb6f92"
      guideopacity="1"
-     guidehicolor="#2a84d2"
+     guidehicolor="#31748f"
      guidehiopacity="0.49803922"
      inkscape:snap-smooth-nodes="false"
      inkscape:snap-page="true">
@@ -132,7 +132,7 @@
      id="layer1"
      transform="translate(0,-296)">
     <rect
-       style="opacity:1;fill:#2a84d2;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#31748f;fill-opacity:1;stroke:none"
        id="rect4270-9"
        width="24"
        height="2"

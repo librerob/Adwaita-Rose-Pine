@@ -4,31 +4,31 @@
 # GTK2 Adwaita port adjusted to Gruvbox Dark palette
 
 # Text/base
-gtk-color-scheme = "text_color:#d6dbe5\nbase_color:#1f1f1f"
+gtk-color-scheme = "text_color:#e0def4\nbase_color:#191724"
 
 # Foreground/background
-gtk-color-scheme = "fg_color:#d6dbe5\nbg_color:#1f1f1f"
+gtk-color-scheme = "fg_color:#e0def4\nbg_color:#191724"
 
 # Selected foreground/background
-gtk-color-scheme = "selected_fg_color:#d6dbe5\nselected_bg_color:#2a84d2"
+gtk-color-scheme = "selected_fg_color:#e0def4\nselected_bg_color:#31748f"
 
 # Insensitive foreground/background
-gtk-color-scheme = "insensitive_fg_color:#4e4e4e\ninsensitive_bg_color:#2e2e2e"
+gtk-color-scheme = "insensitive_fg_color:#403d52\ninsensitive_bg_color:#26233a"
 
 # Menus
-gtk-color-scheme = "menu_color:#1f1f1f"
+gtk-color-scheme = "menu_color:#191724"
 
 # Links
-gtk-color-scheme = "link_color:#2a84d2\nvisited_link_color:#4e5ab7"
+gtk-color-scheme = "link_color:#31748f\nvisited_link_color:#c4a7e7"
 
 # Treeview headers
-gtk-color-scheme = "column_header_color:#606570\nhover_column_header_color:#d6dbe5"
+gtk-color-scheme = "column_header_color:#524f67\nhover_column_header_color:#e0def4"
 
 # Window decoration
-gtk-color-scheme = "window_color:#1f1f1f"
+gtk-color-scheme = "window_color:#191724"
 
 # Tooltips
-gtk-color-scheme = "tooltip_fg_color:#d6dbe5\ntooltip_bg_color:#2e2e2e"
+gtk-color-scheme = "tooltip_fg_color:#e0def4\ntooltip_bg_color:#26233a"
 
 
 # GTK settings
