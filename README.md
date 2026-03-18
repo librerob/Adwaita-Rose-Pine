@@ -4,11 +4,12 @@
 <h1 align="center">Adwaita Rosé Pine</h1>
 <p align="center">
 A complete Rosé Pine recolor of the classic Adwaita Dark GTK theme.
-</p>
 <p align="center">
-<img src="https://img.shields.io/badge/GTK-3%2F4-blue">
-<img src="https://img.shields.io/badge/Cinnamon-6.x-orange">
-<img src="https://img.shields.io/badge/Theme-Rosé%20Pine-pink">
+  <img src="https://img.shields.io/badge/GTK-2-31748f?style=flat-square&labelColor=1f1d2e&color=31748f&logoColor=e0def4">
+  <img src="https://img.shields.io/badge/GTK-3%2F4-9ccfd8?style=flat-square&labelColor=1f1d2e&color=9ccfd8&logoColor=e0def4">
+  <img src="https://img.shields.io/badge/GNOME%20Shell-Supported-c4a7e7?style=flat-square&labelColor=1f1d2e&color=c4a7e7&logoColor=e0def4">
+  <img src="https://img.shields.io/badge/Cinnamon-6.x-f6c177?style=flat-square&labelColor=1f1d2e&color=f6c177&logoColor=e0def4">
+  <img src="https://img.shields.io/badge/Theme-Rosé%20Pine-ebbcba?style=flat-square&labelColor=1f1d2e&color=ebbcba&logoColor=e0def4">
 </p>
 
 ---
