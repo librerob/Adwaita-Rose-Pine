@@ -8,7 +8,7 @@ A complete Rosé Pine recolor of the classic Adwaita Dark GTK theme.
 <p align="center">
 <img src="https://img.shields.io/badge/GTK-3%2F4-blue">
 <img src="https://img.shields.io/badge/Cinnamon-6.x-orange">
-<img src="https://img.shields.io/badge/Theme-Rose%20Pine-pink">
+<img src="https://img.shields.io/badge/Theme-Rosé%20Pine-pink">
 </p>
 
 ---
