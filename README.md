@@ -15,7 +15,7 @@ A complete Rosé Pine recolor of the classic Adwaita Dark GTK theme.
 
 ## Preview
 
-![Adwaita Rose Pine Preview](./preview.png)
+![Adwaita Rose Pine Preview](./previeww.png)
 
 ---
 
