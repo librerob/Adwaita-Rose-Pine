@@ -5,11 +5,11 @@
 <p align="center">
 A complete Rosé Pine recolor of the classic Adwaita Dark GTK theme.
 <p align="center">
-  <img src="https://img.shields.io/badge/GTK-2-31748f?style=flat-square&labelColor=1f1d2e&color=31748f&logoColor=e0def4">
-  <img src="https://img.shields.io/badge/GTK-3%2F4-9ccfd8?style=flat-square&labelColor=1f1d2e&color=9ccfd8&logoColor=e0def4">
-  <img src="https://img.shields.io/badge/GNOME%20Shell-Supported-c4a7e7?style=flat-square&labelColor=1f1d2e&color=c4a7e7&logoColor=e0def4">
-  <img src="https://img.shields.io/badge/Cinnamon-6.x-f6c177?style=flat-square&labelColor=1f1d2e&color=f6c177&logoColor=e0def4">
-  <img src="https://img.shields.io/badge/Theme-Rosé%20Pine-ebbcba?style=flat-square&labelColor=1f1d2e&color=ebbcba&logoColor=e0def4">
+  <img src="https://img.shields.io/badge/GTK_2-V-31748f?style=flat-square&labelColor=1f1d2e&color=31748f">
+  <img src="https://img.shields.io/badge/GTK_3%2F4-V-9ccfd8?style=flat-square&labelColor=1f1d2e&color=9ccfd8">
+  <img src="https://img.shields.io/badge/GNOME_Shell-V-c4a7e7?style=flat-square&labelColor=1f1d2e&color=c4a7e7">
+  <img src="https://img.shields.io/badge/Cinnamon_6.x-V-f6c177?style=flat-square&labelColor=1f1d2e&color=f6c177">
+  <img src="https://img.shields.io/badge/Libadwaita-V-ebbcba?style=flat-square&labelColor=1f1d2e&color=ebbcba">
 </p>
 
 ---
