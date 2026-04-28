@@ -1057,10 +1057,13 @@ StScrollBar {
     border-radius: 0; }
   .appmenu-sidebar .appmenu-system-button {
     background-color: #524f67; }
+    /* [FIX] Lock/logout hover in sidebar: was #524f67 (identical to base) → now uses pine accent tint (#286880 bg + #31748f border), matching the pattern used by shutdown hover */
     .appmenu-sidebar .appmenu-system-button-lock:hover {
-      background-color: #524f67; }
+      background-color: #286880;
+      border: 1px solid #31748f; }
     .appmenu-sidebar .appmenu-system-button-logout:hover {
-      background-color: #524f67; }
+      background-color: #286880;
+      border: 1px solid #31748f; }
     .appmenu-sidebar .appmenu-system-button-shutdown {
       color: white;
       background-color: #eb6f92; }
@@ -1086,10 +1089,15 @@ StScrollBar {
   .appmenu-system-button-shutdown {
     color: white;
     background-color: #eb6f92; }
+  /* [FIX] Lock/logout hover: was #524f67 (barely different from #403d52 base — invisible in practice).
+     Now uses pine teal tint (#286880) + accent border (#31748f), reusing colors from calendar/event hover.
+     Matches the quality of power button hover (eb6f92 → a83d60). */
   .appmenu-system-button-lock:hover {
-    background-color: #524f67; }
+    background-color: #286880;
+    border: 1px solid #31748f; }
   .appmenu-system-button-logout:hover {
-    background-color: #524f67; }
+    background-color: #286880;
+    border: 1px solid #31748f; }
   .appmenu-system-button-shutdown:hover {
     color: white;
     background-color: #a83d60; }
@@ -1944,16 +1952,19 @@ StScrollBar {
     min-width: 160px;
     -barlevel-height: 6px;
     -barlevel-background-color: #26233a;
-    -barlevel-active-background-color: #e0def4;
+    /* [FIX] OSD slider fill: was #e0def4 (white foreground — clashed with Rose Pine palette).
+       Now uses #31748f (pine blue), the primary accent reused throughout buttons, borders, selection. */
+    -barlevel-active-background-color: #31748f;
     -barlevel-amplify-color: #f6c177;
     -barlevel-amplify-separator-width: 3px; }
     .media-keys-osd .level:ltr {
       margin-right: 6px; }
     .media-keys-osd .level:rtl {
       margin-left: 6px; }
+  /* [FIX] OSD level-bar background: was #e0def4 (white foreground). Now #31748f (pine accent) for visual consistency. */
   .media-keys-osd .level-bar {
     border-radius: 20px;
-    background-color: #e0def4; }
+    background-color: #31748f; }
 
 .info-osd {
   font-size: 1.2em;
